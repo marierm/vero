@@ -1,0 +1,3 @@
+* Read me
+  The vero repo is a place to explore code and create new artistic projects.
+
